@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  nginx:
+    image: registry.cn-shenzhen.aliyuncs.com/mengxuyang/giligili:v1.0.0
+    restart: always
+    ports:
+      - 3001:80
