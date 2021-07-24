@@ -1,6 +1,6 @@
 # giligili
 
-## 项目地址[gilgili](http://www.xiaosiro.cn)
+## 项目地址[gilgili](http://www.mogumj.com)
 
 ## Project setup
 ```
